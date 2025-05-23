@@ -1,0 +1,12 @@
+<resources>
+    <string name="app_name">NetflixAmanda</string>
+    <string name="s_ries">Séries</string>
+    <string name="filmes">Filmes</string>
+    <string name="minha_lista">Minha lista</string>
+    <string name="detalhes">DETALHES</string>
+    <string name="minha_listamais">MINHA LISTA</string>
+    <string name="lan_amento">Lançamento</string>
+    <string name="romance">Romance</string>
+    <string name="com_dia">Comédia</string>
+    <string name="terror">Terror</string>
+</resources>
